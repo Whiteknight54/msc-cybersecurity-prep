@@ -48,7 +48,7 @@ Folder: `network analysis presentation`
 
 ---
 
-## 🛠 Getting Started
+## Getting Started
 
 To compile and run any C program in this repo:
 
