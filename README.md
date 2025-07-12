@@ -9,8 +9,6 @@ This repository contains all preparatory work completed ahead of the MSc Cyber S
 - [C Programming Tasks (IoT Prep)](#c-programming-tasks-iot-prep)
 - [Network Traffic Analysis](#network-traffic-analysis)
 - [Getting Started](#getting-started)
-- [Videos](#videos)
-- [Author](#author)
 
 ---
 
